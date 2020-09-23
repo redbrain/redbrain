@@ -1,4 +1,7 @@
 ### Salutations! 👋
+
+
+
 <img src = 'https://github.com/redbrain/redbrain/raw/master/fullbody.png' alt = 'Awesome Matrix Code' align='right'/>
 
 Call me redbrain.   
@@ -15,14 +18,9 @@ You can shortlink to this page with https://git.io/redbrain .
 
 Until next time!
 
-
-
-
 <!--
 **redbrain/redbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
