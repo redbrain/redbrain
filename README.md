@@ -1,5 +1,5 @@
 ### Salutations! 👋
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/redbrain/redbrain/raw/master/fullbody.png' alt = 'Awesome Matrix Code' align='right'/>
 Call me redbrain.  
 I (he/him) commonly refer to this as my graveyard of potential projects. Feel free to look around!  
 I code as a hobby but could potentially code professionally if i ever become a real adult.  
