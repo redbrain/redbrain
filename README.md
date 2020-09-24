@@ -1,6 +1,6 @@
 <img src = 'https://github.com/redbrain/redbrain/raw/master/fullbody.png' alt = 'An image' align='right'/>
 
-## Salutations lifeform!  
+## Greetings, fellow humans!  
 
 
 Call me redbrain.   
