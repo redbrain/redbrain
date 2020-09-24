@@ -11,7 +11,7 @@ I code as a hobby but could potentially code professionally if I ever become a r
 
 I'm working in Python, HTML, Node.JS, PHP, Bash, and a little bit of a ton of other languages.   
 
-Submit an issue in this repo if you need to talk to me for some reason.   
+Submit an issue in redbrain/redbrain if you need to talk to me for some reason.   
 
 You can shortlink to this page with https://git.io/redbrain .   
 
