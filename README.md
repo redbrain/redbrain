@@ -15,7 +15,9 @@ Submit an issue in this repo if you need to talk to me for some reason.
 
 You can shortlink to this page with https://git.io/redbrain .   
 
-Until next time, happy coding!
+Until next time, happy coding!   
+
+*What's a functional programmer's favorite animal? A lamb, duh!*
 
 <!--
 **redbrain/redbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
