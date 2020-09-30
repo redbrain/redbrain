@@ -1,6 +1,6 @@
 <img src = 'https://github.com/redbrain/redbrain/raw/master/fullbody.png' alt = 'An image' align='right'/>
 
-## Greetings, fellow humans!  
+# Greetings, fellow humans!  
 
 
 Call me redbrain.   
@@ -17,7 +17,9 @@ You can shortlink to this page with https://git.io/redbrain .
 
 Until next time, happy coding!   
 
+
 *What's a functional programmer's favorite animal? A lamb, duh!*
+
 
 <!--
 **redbrain/redbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
