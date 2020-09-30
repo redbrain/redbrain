@@ -13,9 +13,9 @@ I'm working in Python, HTML, NodeJS, PHP, and a little bit of a ton of other lan
 
 Submit an issue in redbrain/redbrain if you need to talk to me for some reason.   
 
-You can shortlink to this page with https://git.io/redbrain .   
+You can shortlink to this page with git.io/redbrain .   
 
-Until next time, happy coding!   
+Until next time, keep imagining!   
 
 
 *What's a functional programmer's favorite animal? A lamb, duh!*
