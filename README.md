@@ -13,7 +13,7 @@ I'm working in Python, HTML, NodeJS, PHP, and a little bit of a ton of other lan
 
 Submit an issue in redbrain/redbrain if you need to talk to me for some reason.   
 
-You can shortlink to this page with git.io/redbrain .   
+You can shortlink to this page with [git.io/redbrain](https://git.io/redbrain).   
 
 Until next time, keep imagining!   
 
