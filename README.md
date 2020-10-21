@@ -5,7 +5,7 @@
 
 Call me redbrain.   
 
-I (he/him) commonly refer to this as my graveyard of potential projects. Feel free to look around!   
+I (he/him) commonly refer to this as my graveyard of potential projects and/or library of temporarily patched dependencies. Feel free to look around!   
 
 I code as a hobby but could potentially code professionally if I ever become a real adult.   
 
