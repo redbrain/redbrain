@@ -3,7 +3,7 @@
 # Greetings, fellow humans!  
 
 
-Call me *redbrain*.  
+Call me **redbrain**.  
 
 I (he/him) commonly refer to this as my graveyard of potential projects and/or library of temporarily patched dependencies. Feel free to look around!  
 
@@ -11,7 +11,7 @@ I code as a hobby but could potentially code professionally if I ever become a r
 
 I'm fluent in Node.js, the interweb (HTML/CSS/JS), and Python, but I've used countless languages at least once for some purpose.  
 
-I'm working on a web app called Resonance for collaborative music editing.
+I'm working on a web app called Resonance for collaborative music editing, along with [plenty more](https://redbrain.github.io).
 
 Submit an issue in redbrain/redbrain if you need to talk to me for some reason.  
 
