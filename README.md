@@ -13,7 +13,7 @@ I'm fluent in Node.js, the interweb (HTML/CSS/JS), and Python, but I've used cou
 
 I'm working on a web app called Resonance for collaborative music editing, along with [plenty more](https://redbrain.github.io).
 
-Submit an issue in redbrain/redbrain if you need to talk to me for some reason.  
+Emails are junky and boring. If you'd like to talk to me quickly, consider submitting an issue in redbrain/redbrain.  
 
 You can shortlink to this page with [git.io/redbrain](https://git.io/redbrain).  
 
