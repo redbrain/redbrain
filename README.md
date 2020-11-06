@@ -18,8 +18,6 @@ Emails are junky and boring. If you'd like to talk to me quickly, consider submi
 
 You can shortlink to this page with [git.io/redbrain](https://git.io/redbrain).  
 
-Until next time, keep imagining!   
-
 
 *What's a functional programmer's favorite animal? A lamb, duh!*
 
