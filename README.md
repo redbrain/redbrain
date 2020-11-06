@@ -3,7 +3,7 @@
 # Greetings, fellow humans!  
 
 
-Call me **redbrain**.  
+Call me **redbrain**. (This screenname predates time and space; it does not define any religious alignment.)  
 
 I (he/him) commonly refer to this as my graveyard of potential projects and/or library of temporarily patched dependencies. Feel free to look around!  
 
