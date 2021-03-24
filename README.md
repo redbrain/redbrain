@@ -14,7 +14,7 @@ I'm fluent in Node.js, the interweb (HTML/CSS/JS), and Python, but I've used cou
 
 I'm working on a web app called Resonance for collaborative music editing, along with [plenty more](https://redbrain.github.io).
 
-Emails are junky and boring. If you'd like to talk to me quickly, consider submitting an issue in redbrain/redbrain.  
+Emails are junky and boring. If you'd like to talk to me quickly, consider submitting an issue in redbrain/redbrain, or message me on Discord @ redbrain#8167.  
 
 You can shortlink to this page with [git.io/redbrain](https://git.io/redbrain).  
 
