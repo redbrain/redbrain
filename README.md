@@ -12,7 +12,7 @@ I code as a hobby but could potentially code professionally if I ever become a r
 
 I'm fluent in Node.js, the interweb (HTML/CSS/JS), and Python, but I've used countless languages at least once for some purpose.  
 
-I'm working on a web app called Resonance for collaborative music editing, along with [plenty more](https://redbrain.github.io).
+I'm working on Resonance (an app for collaborative music creation), creating a coalition for suckless-style webapps, and [plenty more](https://redbrain.github.io).
 
 Emails are junky and boring. If you'd like to talk to me quickly, consider submitting an issue in redbrain/redbrain, or message me on Discord @ redbrain#8167.  
 
