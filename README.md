@@ -16,7 +16,7 @@ I'm fluent in Node.js, the interweb (HTML/CSS/JS), and Python, but I've used cou
 
 I'm working on some non-OSS stuff, such as Resonance (an app for collaborative music creation), creating a coalition for suckless-style webapps, and [plenty more](https://redbrain.github.io).
 
-Emails are junky and boring. If you'd like to talk to me quickly, consider submitting an issue in redbrain/redbrain, or message me on Discord @ redbrain#8167.  
+Emails are junky and boring. If you'd like to talk to me quickly, message me on Discord @ redbrain#8167.  
 
 You can shortlink to this page with [git.io/redbrain](https://git.io/redbrain).  
 
