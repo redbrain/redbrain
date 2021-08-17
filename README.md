@@ -12,9 +12,9 @@ I (he/him) commonly refer to this as my graveyard of potential projects and/or l
 
 I code as a hobby but could potentially code professionally if I ever become a real adult.  
 
-I'm fluent in Node.js, the interweb (HTML/CSS/JS), and Python, but I've used countless languages at least once for some purpose.  
+I'm fluent in JavaScript (Node.js and the web stack) and Python. I'm learning Java, C++, Go, Rust, Haskell, and plenty others.  
 
-I'm working on some non-OSS stuff, such as Resonance (an app for collaborative music creation), creating a coalition for suckless-style webapps, and [plenty more](https://redbrain.github.io).
+I'm working on some non-OSS stuff, such as Resonance (an app for collaborative music creation), some wonderful WASM webapps, and [plenty more](https://redbrain.github.io).
 
 Emails are junky and boring. If you'd like to talk to me quickly, message me on Discord @ redbrain#8167.  
 
