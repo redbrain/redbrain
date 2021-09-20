@@ -1,27 +1,14 @@
-![A card showing my GitHub activity statistics](https://github-readme-stats.vercel.app/api?username=redbrain&show_icons=true&theme=dracula)
-***
-
-<img src="https://github.com/redbrain/redbrain/raw/master/fullbody.png" alt="An image of my avatar" align="right">
-
-# Greetings, fellow humans!  
-
-Call me **redbrain**.  
-(This screenname predates time and space; it does not define any religious or political alignment.)  
-
-I (he/him) commonly refer to this as my graveyard of potential projects and/or library of temporarily patched dependencies. Feel free to look around!  
-
-I code as a hobby but could potentially code professionally if I ever become a real adult.  
-
-I'm fluent in JavaScript (Node.js and the web stack) and Python. I'm learning Java, C++, Go, Rust, Haskell, and plenty others.  
-
-I'm working on some non-OSS stuff, such as Resonance (an app for collaborative music creation), some wonderful WASM webapps, and [plenty more](https://redbrain.github.io).
-
-Emails are junky and boring. If you'd like to talk to me quickly, message me on Discord @ redbrain#8167.  
-
-You can shortlink to this page with [git.io/redbrain](https://git.io/redbrain).  
+# hey, i'm redbrain 
+- student and hobbyist programmer (he/him)
+- fluent in: JavaScript (web and server-side), Python, Java
+- learning: C/++, Rust, Go, Haskell
+- projects: https://redbrain.github.io
+- contact: discord - redbrain#8167
+- canonical link here: https://git.io/redbrain
 
 
-*What's a functional programmer's favorite animal? A lamb, duh!*
+![A card showing my GitHub activity statistics](https://github-readme-stats.vercel.app/api?username=redbrain&show_icons=true&theme=dark)
+
 
 <!-- redbrain/redbrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
 🔭 I’m currently working on ... / 🌱 I’m currently learning ... / 👯 I’m looking to collaborate on ... / 🤔 I’m looking for help with ...
