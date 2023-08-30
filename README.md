@@ -1,9 +1,14 @@
 # hey, i'm redbrain 
-- student and hobbyist programmer (he/him)
-- fluent in: JavaScript (web and server-side), Python, Java
-- learning: C/++, Rust, Go, Haskell
+
+This is a place where some of my finished projects go. It's not always up to date.  
+Outside of GitHub, I'm [conducting AI research with Google TRC](https://sites.research.google/trc/about/), calculating prime numbers, [tracking hurricanes](https://archive.li/Bwjfo), and much more.  
+Here's some more about me:
+
+- student and hobbyist programmer (he/they)
+- fluent in: JavaScript (web and server-side), Python, Java, Go
+- learning: C/++, Rust, Haskell
 - projects: https://redbrain.github.io
-- contact: discord - redbrain#8167
+- contact: discord - redbrain (formerly redbrain#8167)
 - canonical link here: https://git.io/redbrain
 
 
